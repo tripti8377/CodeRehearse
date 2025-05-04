@@ -1,0 +1,54 @@
+/* header.css */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1e1e2e;
+    padding: 15px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .profile-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .email {
+    color: #ffffff;
+    font-size: 16px;
+  }
+  
+  .welcome-box {
+    background-color: #282a36;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .welcome-box:hover {
+    background-color: #44475a;
+    transform: scale(1.05);
+  }
+  
+  .settings-icon {
+    color: white;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .settings-icon:hover {
+    transform: rotate(30deg);
+  }
+  
