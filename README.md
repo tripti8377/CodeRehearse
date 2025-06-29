@@ -17,7 +17,7 @@ A personalised dashboard for students to track coding contests, get job listings
 - 🔍 Search for problems by tag, with platform filtering  
 - 📊 Visualizations for problem-solving stats  
 
-## UI MockUps
+## UI
 
 Login Page
 ![Login Page](./Screenshots/Login_Page.png)
